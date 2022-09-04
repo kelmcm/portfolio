@@ -3,7 +3,7 @@ Welcome to my portfolio!
 ## About me
 <img src="https://user-images.githubusercontent.com/52800144/188290301-37d66444-80f8-4e25-9acb-dda966ca89b9.jpg" alt="drawing" width="150" align="right"/> 
 
-:wave:Hello, I’m Kelly! 
+&#128075;Hello, I’m Kelly! 
 
 My name is Kelly McManus and my pronouns are she/her/hers. I am a Massachusetts raised, Québec and Pennsylvania educated analyst who empowers individuals to harness data to make informed decisions, test hypotheses, and solve impactful problems. 
 
