@@ -14,8 +14,6 @@ Currently, I am back in academia and studying for my Master of Information Syste
 This portfolio displays my work for the course Telling Stories With Data (94-870) that I took in Fall 2022 at Carnegie Mellon, Heinz College. 
 
 ## What I hope to learn
-
-### What I hope to learn from this class
 I'm taking the Telling Stories With Data course to gain more experience building data visualizations that are easy to read and highly insightful. 
 
 By the end of this course, I hope to be in an expert in:
@@ -30,6 +28,5 @@ After graduating, I will start working as a data engineer on an experimentation 
 
 ## Porfolio
 
-My portfolio will be populated throughout the semester as assignments are due!
-
-### Critique #1
+- [King County Covid-19 Cases](https://kelmcm.github.io/portfolio/king-county-cases.html)
+- [Visualizing Government Debt](https://kelmcm.github.io/portfolio/visualizing-government-debt.html)
