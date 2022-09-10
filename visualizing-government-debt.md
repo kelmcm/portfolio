@@ -20,5 +20,7 @@ I chose the line chart because I wanted to see in one place, how the different c
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11143960"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 Additional Sources: 
+
 The World Bank. (2022). _GDP (current US$)_. https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?most_recent_value_desc=true
