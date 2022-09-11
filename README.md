@@ -29,4 +29,4 @@ After graduating, I will start working as a data engineer on an experimentation 
 ## Porfolio
 
 - [King County Covid-19 Cases](https://kelmcm.github.io/portfolio/king-county-cases.html)
-- [Visualizing Government Debt](https://kelmcm.github.io/portfolio/visualizing-government-debt.html)
+- Assignment: [Visualizing Government Debt](https://kelmcm.github.io/portfolio/visualizing-government-debt.html)
