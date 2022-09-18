@@ -30,3 +30,4 @@ After graduating, I will start working as a data engineer on an experimentation 
 
 - [King County Covid-19 Cases](https://kelmcm.github.io/portfolio/king-county-cases.html)
 - Assignment: [Visualizing Government Debt](https://kelmcm.github.io/portfolio/visualizing-government-debt.html)
+- Assignment: [Critique by Design](https://kelmcm.github.io/portfolio/critique-by-design.html)

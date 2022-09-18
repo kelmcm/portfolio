@@ -1,4 +1,6 @@
 ## Assignment: Visualizing government debt
+September 12, 2022
+
 The goal of this assignment is to visualize global government debt over time. Countries take on different forms of government debt. The general government debt-to-GDP ratio is an indicator used to measure the health of a government's finances (OECD, 2022). In the below exercise we look at this metric from different lenses.   
 
 ### Part 1: Government finance sustainability above average for US and Canada - not a good thing
