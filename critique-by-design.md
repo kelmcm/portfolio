@@ -203,9 +203,9 @@ I struggled with the title of these charts. Communicating how the metrics are ca
 
 ## Final solution
 
-<div class="flourish-embed flourish-chart" width=50% data-src="visualisation/11239131"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11239131"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-slope" width=50% data-src="visualisation/11239113"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-slope" data-src="visualisation/11239113"><script src="https://public.flourish.studio/resources/embed.js" width="50%"></script></div>
 
 ## Sources
 
