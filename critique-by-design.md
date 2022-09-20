@@ -187,11 +187,17 @@ My final solution are the two charts that follow:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11228292"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Instead of doing growth rate, I also have this chart to display the percent of population change between 1991 and 2001. 
+
+<div class="flourish-embed flourish-slope" data-src="visualisation/11230016"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 I decided to focus on showing the contradiction between the French-speaking population growing, but at a slower rate than the other languages over the macro-trend of 30 years. 
 
 The first chart shows that French is still dominant to other languages, however all languages and population are growing over the past 30 years. While, the second chart gives the overall growth rate of languages spoken at home between 1996 and 2021. 
 
 The insights from these two charts contradict each other, which caused confusion in my interview. I hope that these charts give a realization rather than confusion to the reader that French is slowing down growth, but it still is growing. 
+
+I decided to show only 4 years of census data, each a decade a part to focus on the macro, decade-over-decade trend.  
 
 I struggled with the title of these charts. Communicating how the metrics are calculated, the location, and timeframe all in one sentence is a challenge. These charts are not perfect and still need improvement, however I hope they give a bit more understanding of the language situation in Quebec. 
 
