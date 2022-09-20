@@ -43,19 +43,19 @@ I graded these charts on Usefulness as a 10 because the information (Number of p
 
 **Completeness**: 5
 
-I graded these charts in terms of Completeness as a 5. As stated by Few, completeness means that the chart provides enough context to understand the message and context is often shown through comparison. These two charts are normally presented together to be compared, however they show slightly different metrics. The French language chart shows Number of people who speak French at home, while the English language chart shows Number of people with first language English. To be more complete, these charts should show the same metrics to compare. Similarly, these charts are missing information on bi-lingualism or non-official (non-French or English) spoken languages. This information is deeper in the Statistics Canada analysis and forces the reader to seek out these insights themselves.
+I graded these charts in terms of Completeness as a 5. As stated by Few, completeness means that the chart provides enough context to understand the message and context is often shown through comparison. These two charts are normally presented together to be compared, however they show slightly different metrics. The French language chart shows Number of people who speak French at home, while the English language chart shows Number of people with first language English. To be more complete, these charts should show the same metrics to compare. Similarly, these charts are missing information on bilingualism or non-official (non-French or English) spoken languages. This information is deeper in the Statistics Canada analysis and forces the reader to seek out these insights themselves.
 
 **Perceptibility**: 4
 
-I rated these charts as a 4 in perceptibility. At first glance, these charts seem simple due to the fact that there is a lot of white space. But, if it were not for the detailed title, the reader may not be able to get the meaning of the chart at first glance. This can be due to the small text on the charts and the use of a two verticle axes. If you are unfamiliar with reaching charts, the dual axes may require you to strain to be able to read the information and take away the intended meaning. 
+I rated these charts as a 4 in perceptibility. At first glance, these charts seem simple due to the fact that there is a lot of white space. But, if it were not for the detailed title, the reader may not be able to get the meaning of the chart at first glance. This can be due to the small text on the charts and the dual axes. If you are unfamiliar with reading charts, the dual axes may require you to strain to be able to read the information and take away the intended meaning. 
 
-On the first chart showing French lanuguage, the title is refering to the dotted line showing decreasing proportion, however the natual eye will be drawn first to the blue bars that are increasing in value. This contradiction will force the reader to look closer to take away the meaning. Instead, the chart should highlight the line with an eye-catching color and use grey to push the bars into the background as supporting information. 
+On the first chart showing French language, the title is referring to the dotted line showing decreasing proportion, however the natual eye will be drawn first to the blue bars that are increasing in value. This contradiction will force the reader to look closer to take away the meaning. Instead, the chart should highlight the line with an eye-catching color and use grey to push the bars into the background as supporting information. 
 
-Overall, the perceptability on these two charts can be improved by, increasing text size, removing dual axes, and drawing the reader to the element of the chart that matters. 
+Overall, the perceptibility on these two charts can be improved by, increasing text size, removing dual axes, and drawing the reader to the element of the chart that matters. 
 
 **Truthfulness**: 5
 
-I rated these charts in Truthfulness as a 5. The claims the titles are making are valid and the data backs up these claims. However, because these charts are communicated together, there is a question of magnitude of these claims. The scales on the two charts are different, however the physical size of the bars are similar in height. As a quick reader, there is the potential to make a speedy concludsion that English is much closer to the number of French speakers in Quebec if you do not notice the differing scales. 
+I rated these charts in Truthfulness as a 5. The claims the titles are making are valid and the data backs up these claims. However, because these charts are communicated together, there is a question of magnitude of these claims. The scales on the two charts are different, however the physical size of the bars are similar in height. As a quick reader, there is the potential to make a speedy conclusion that English is much closer to the number of French speakers in Quebec if you do not notice the differing scales. 
 
 Changing the scale on these charts would help present the data more truthfully and realistically back up the titles' claims. 
 
@@ -63,25 +63,23 @@ Update: I started to sketch out my redesign and I just notices that the horizont
 
 **Intuitiveness**: 5
 
-I rated the charts as a 5 for Intuitiveness. The charts present a good about of information for the reader to understand. After looking at the legend and the chart data, the reader will be able to understand the core insights from the visualization. There may be some difficulty due to the aesthetic design and dual axes, but within a few seconds, the reader should be able to get the message. By improving the font size and removing the dual axes, these charts would become more intuitive. 
+I rated the charts as a 5 for Intuitiveness. The charts present a good amount of information for the reader to understand. After looking at the legend and the chart data, the reader will be able to understand the core insights from the visualization. There may be some difficulty due to the aesthetic design and dual axes, but within a few seconds, the reader should be able to get the message. By improving the font size and removing the dual axes, these charts would become more intuitive. 
 
 **Aesthetics**: 3
 
-I rated the aesthetics of these visualizations as a 3. These charts are both bar graphs with similar sizing bars and tiny text. Besides the color of the bars, there is nothing eye-catching about these charts that will draw a reader in. As discussed prior, increasing the font size of the charts and aligning the vertical axis scale will draw the reader into the charts and provide more dynamic levels to present the information. The charts are not fully ugly, however they are not pleasing to the eye and definitely not beautiful. 
+I rated the aesthetics of these visualizations as a 3. These charts are both bar graphs with similar sizing bars and tiny text. Besides the color of the bars, there is nothing eye-catching about these charts that will draw a reader in. As discussed prior, increasing the font size of the charts and aligning the vertical axis scale will draw the reader into the charts and provide more dynamic levels to present the information. The charts are not ugly, however they are not pleasing to the eye and definitely not beautiful. 
 
 **Engagement**: 2
 
-The engagement of these charts is low. The visualization is not distracting from the data, but it does not draw the reader into view the data for reasons described in the Aestentics section. The charts could be made more engaging if the reader was able to hover over the data and see the underlying values of the chart elements. The raw values are written in text in the article underneath the chart. Adding this small, interactive element would make the chart more truthful and engaging.
+The engagement of these charts is low. The visualization is not distracting from the data, but it does not draw the reader into view the data for reasons described in the Aesthetics section. The charts could be made more engaging if the reader was able to hover over the data and see the underlying values of the chart elements. The raw values are written in text in the article underneath the chart. Adding this small, interactive element would make the chart more truthful and engaging.
 
 Overall, these two visualizations are neither unreadable nor unusable, they communicate the information they hold in a straightforward manner. However, there are two elements that give me pause that make these visualizations hard to compare, even though these two visualizations are commonly shown side by side in news articles and media.
-
-Critique technique source: http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 ### Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?
 
 The first difference is that the values are showing two different metrics: Number of people who speak French at home vs. Number of people whose first language spoken is English. It's a slight difference between the terminology of these metrics, but as a reader it can be confusing to understand these definitions and differences between the values. Secondly, while these charts are often shown together, their axis have different scales. At a quick glance, a reader may not see the different scales and attribute a larger increase in English language and a smaller decrease in French.
 
-I do like that these charts are trying to stay simple. There is not too much text on the charts and there is a lot of white space, allowing the reader to be able to piece together the puzzle of what the are trying to convey. Similarly, each of these charts have great descriptive titles that guys the reader to interpret the data rather quickly.
+I do like that these charts are trying to stay simple. There is not too much text on the charts and there is a lot of white space, allowing the reader to be able to piece together the puzzle of what they are trying to convey. Similarly, each of these charts have great descriptive titles that guys the reader to interpret the data rather quickly.
 
 Overall, the things I would change are:
 - Use the same metric for both English and French to compare apples to apples.
@@ -93,7 +91,7 @@ I would keep:
 - Descriptive title. This is a great tool to guide the reader towards the insight from the graph.
 
 ### Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not? 
-The audience of this visualization is the general Canadian population. Journalists and statisticians will be the primary consumers of this visualization, but as Statistics Canada is the federal government's data arm, they should prepare for anyone in the general population to view this information. Those who are particularly interest in the language demographics of the population will also pay close attention to this visualization. I do not think this visualization is effective in communicating to such a broad audience who may or may not be familiar with reading charts. For example, the double vertical axis is a feature that is more geared to readers who are used to reading visualizations. If you are unfamiliar with how a double axis works, this may be confusing to read. Similarly, the text on these charts is extremally small and may be hard to read for people who poor eyesight. Using one axis per chart and having larger text to improve legibility are some things that can be improved on the visualization to become more accessible to the entire Canadian population.
+The audience of this visualization is the general Canadian population. Journalists and statisticians will be the primary consumers of this visualization, but as Statistics Canada is the federal government's data arm, they should prepare for anyone in the general population to view this information. Those who are particularly interested in the language demographics of the population will also pay close attention to this visualization. I do not think this visualization is effective in communicating to such a broad audience who may or may not be familiar with reading charts. For example, the double vertical axis is a feature that is more geared to readers who are used to reading visualizations. If you are unfamiliar with how a double axis works, this may be confusing to read. Similarly, the text on these charts is tiny and may be hard to read for people who poor eyesight. Using one axis per chart and having larger text to improve legibility are some things that can be improved on the visualization to become more accessible to the entire Canadian population.
 
 ### How successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)
 
@@ -200,6 +198,14 @@ The insights from these two charts contradict each other, which caused confusion
 I decided to show only 4 years of census data, each a decade a part to focus on the macro, decade-over-decade trend.  
 
 I struggled with the title of these charts. Communicating how the metrics are calculated, the location, and timeframe all in one sentence is a challenge. These charts are not perfect and still need improvement, however I hope they give a bit more understanding of the language situation in Quebec. 
+
+**One last redesign:** After discussing with some class, mates I decided to remove the growth rate chart as it may confuse the reader more than help them understand the data. 
+
+## Final solution
+
+<div class="flourish-embed flourish-chart" width=50% data-src="visualisation/11239131"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-slope" width=50% data-src="visualisation/11239113"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Sources
 
