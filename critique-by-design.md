@@ -62,6 +62,7 @@ Changing the scale on these charts would help present the data more truthfully a
 Update: I started to sketch out my redesign and I just notices that the horizontal timeline axis are different as well. The English chart has a timeline of 1971 to 2021, while the French chart has a timeline of 1991 to 2021. The skewed timeline inflates the visual increase of English if you do not realize that the charts are showing different timeframes. I would recommend aligning the timeframes of the data and including the time in the title in an effort to truthfully communicate the data to the reader. 
 
 **Intuitiveness**: 5
+
 I rated the charts as a 5 for Intuitiveness. The charts present a good about of information for the reader to understand. After looking at the legend and the chart data, the reader will be able to understand the core insights from the visualization. There may be some difficulty due to the aesthetic design and dual axes, but within a few seconds, the reader should be able to get the message. By improving the font size and removing the dual axes, these charts would become more intuitive. 
 
 **Aesthetics**: 3
@@ -88,7 +89,7 @@ Overall, the things I would change are:
 - Remove the double axis. Potentially, using a stacked bar chart to show the entire population compared to the French population may be a good way to show the raw count but allow the reader to get an idea of the proportion of the population without using a second axis.
 
 I would keep:
-- White space. I would want to keep the graph easy to read and not overcluttered.
+- White space. I would want to keep the graph easy to read and not over cluttered.
 - Descriptive title. This is a great tool to guide the reader towards the insight from the graph.
 
 ### Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not? 
@@ -110,37 +111,35 @@ Source: Statistics Canada, Census Data 1991-2021
 
 ## Step 4: Test the solution
 
-### Interview 1: Arts student, mid-20s, Lives in US
+### Interview 1: Arts student, mid-20s, lives in US
 
-For this interview, I went through each chart seperately. 
+For this interview, I went through each chart separately. 
 
 #### Chart 1
 - Can you tell me what you think this is?<br>
-Umm, a graph showing the change in.. Okay this is confusing. Okay the change in the percentage of households that speak french at home vs english and other language. And it looks like over time french decrease, and englishg decrease and rose again. 
+Umm, a graph showing the change... Okay, this is confusing. Okay, the change in the percentage of households that speak French at home vs english and other language. And it looks like over time French decrease, and English decreased and rose again.
 
 - Can you describe to me what this is telling you?<br>
-It tells me that french is still a majority primary language in Quebec household, but English seems to be gettin gmore popular vs 15 years ago. 
+It tells me that French is still a majority primary language in Quebec household, but English seems to be getting more popular vs 30 years ago. 
 
 - Is there anything you find surprising or confusing?<br>
-I'm confused about, I don't understand the percent of all languages spoken at home, households or people? Thats confusing
-The scale is also confusing, I can't tell if English is really rising
+I'm confused about, I don't understand the percent of all languages spoken at home, households or people? Thats confusing. The scale is also confusing, I can't tell if English is really rising or not. 
 
 - Who do you think is the intended audience for this? <br>
 Different quebec govt agencies. Or quebec residents who are curious about what language their neighbors are speaking. 
 
 - Is there anything you would change or do differently? <br>
-The scale is hard to interpret change, everything seems very condensed. Maybe a secondary axis? Specify specifically how percent of all languages spoken at home is caluclated (demo?)
-
+The scale is hard to interpret change, everything seems very condensed. Maybe a secondary axis? Specify specifically how percent of all languages spoken at home is calculated.
 
 #### Chart 2
 - Can you tell me what you think this is?<br>
-I like this one better. This is looking at the past 30 years and how the number of people speaking langues in quebec has changed over time according to census data. 
+I like this one better. This is looking at the past 30 years and how the number of people speaking languages in quebec has changed over time according to census data. 
 
 - Can you describe to me what this is telling you?<br>
- It tells me that French speakers has been consistently increasing. English has fluxuated a bit but overall is increasing, but French every year is the majority. 
+ It tells me that French speakers has been consistently increasing. English has fluctuated a bit but overall is increasing, but French every year is the majority. 
 
 - Is there anything you find surprising or confusing?<br>
-Nothing confusing, Is this like primary language at home, is it both? Are people double counted? I'm not surprised. 
+Is this like primary language at home, is it both? Are people double counted? I'm not surprised. 
 
 - Who do you think is the intended audience for this?<br>
 Same. 
@@ -151,7 +150,7 @@ Maybe a horizontal bar chart? Im not sure!
 - Asthetics?<br>
 Colors are contrast its good. I like that I can hover over to see numbers, that will help with scale. 
 
-### Interview 2: Medical student, mid-20s, Lives in Quebec
+### Interview 2: Medical student, mid-20s, lives in Quebec
 
 For this interview, I presented the charts together.
 
@@ -159,28 +158,56 @@ For this interview, I presented the charts together.
 It's a graph showing the amount of different languages spoken at home as a function of time. 
 
 - Can you describe to me what this is telling you?<br>
-Start with one on the left: Mostly that French is going down and the other lanuages aren't really changing. 
+Start with one on the left: Mostly that French is going down and the other languages aren't really changing. 
 Second chart: It shows the number of people language is on the rise. It's not a good graph because you can't tell the reason as to why these changes are happening. Did the census reach more people, did the population increase? It seems like their all on the rise, which implies the population is growing, but that's not explicitly stated. Hard to tell the rates, the change year over year. This graph is worse at showing the change year over year, I see its increasing, but how much. 
 
 - Is there anything you find surprising or confusing?<br>
-If I didn't know about your project, I wouldn't know that it was Quebec. Quebec should be in the title. It doesnt seem like they % add up to 100%. Font needs to be bigger for the axis. 
+If I didn't know about your project, I wouldn't know that it was Quebec. Quebec should be in the title. It doesn't seem like the % add up to 100%. Font needs to be bigger for the axis. 
 
 - Who do you think is the intended audience for this?<br>
-I feel like they'd both be for a different audience. Left = Quebec seperatists, pro francophone who think we're losing our culture. Right = The opposite? Not sure. I think they are painting oposite stories. Most people aren't going to take the time and realize its percentage of population. Where is this from? I dont see that its census data. 
+I feel like they'd both be for a different audience. Left = Quebec separatists, pro francophone who think we're losing our culture. Right = The opposite? Not sure. I think they are painting opposite stories. Most people aren't going to take the time and realize its percentage of population. Where is this from? I don't see that its census data. 
 
 - Is there anything you would change or do differently?<br>
-The graph on the left has so much empty space. If the point is to exasterbate the differnece then it works. Potenitally an area chart? It could be good to highlight why there is an inflection point. 
+The graph on the left has so much empty space. If the point is to exacerbate the difference then it works. Potentially an area chart? It could be good to highlight why there is an inflection point. 
 
-Limitation with Balsamiq: Can only put one dent in a line, bad for reflecting non-linear lines. 
+A imitation with Balsamiq is that I ca only put one dent in a line. This was bad for reflecting non-linear lines and testing. The test interviewees were trying to make sense of the data, however the data wasn't fully accurate. 
 
-### Overall feedback from interviews
+### Key takeaways from the interviews
 
 - Larger text
 - Clearly state Quebec and time in the title
-- Consider merging the charts. Can we compare languages and show increasing population, but decreaseing change in percentage in one visualization 
+- Consider merging the charts. Can we compare languages and show increasing population, but decreasing change in percentage in one visualization 
 - Clarify the metrics with more descriptive axis and titles so that reader isnt confused as to if people are counted twice. 
 
-## Step 5, Build the solution
+## Step 5: Build the solution
 
+My final solution are the two charts that follow: 
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11228979"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11228292"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I decided to focus on showing the contradiction between the French-speaking population growing, but at a slower rate than the other languages over the macro-trend of 30 years. 
+
+The first chart shows that French is still dominant to other languages, however all languages and population are growing over the past 30 years. While, the second chart gives the overall growth rate of languages spoken at home between 1996 and 2021. 
+
+The insights from these two charts contradict each other, which caused confusion in my interview. I hope that these charts give a realization rather than confusion to the reader that French is slowing down growth, but it still is growing. 
+
+I struggled with the title of these charts. Communicating how the metrics are calculated, the location, and timeframe all in one sentence is a challenge. These charts are not perfect and still need improvement, however I hope they give a bit more understanding of the language situation in Quebec. 
+
+## Sources
+
+Statistics Canada. [Table 98-10-0200-01  Language spoken most often at home by other language(s) spoken regularly at home: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810020001)
+
+Statistics Canada, 2016 Census of Population, Statistics Canada Catalogue no. 98-400-X2016075. 
+
+Statistics Canada, 2011 Census of Population, Statistics Canada Catalogue no. 98-314-XCB2011042.
+
+Statistics Canada. (2006). _Population by language spoken most often at home and age groups, 2006 counts, for Canada, provinces and territories - 20% sample data_. https://www12.statcan.gc.ca/census-recensement/2006/dp-pd/hlt/97-555/T402-eng.cfm?Lang=E&T=402&GH=4&SC=1&S=99&O=A
+
+Statistics Canada, 2001 Census of Population, Statistics Canada Catalogue no. 97F0007XCB2001003.
+
+Statistics Canada, 1996 Census of Population, Statistics Canada Catalogue no. 93F0024XDB96003.
+
+Source: Statistics Canada, 1991 Census of Population, Statistics Canada Catalogue no. 93F0024XDB96003.
 
