@@ -207,6 +207,8 @@ I struggled with the title of these charts. Communicating how the metrics are ca
 
 <div class="flourish-embed flourish-slope" style="width: 50%" data-src="visualisation/11239113"><script src="https://public.flourish.studio/resources/embed.js" width="50%"></script></div>
 
+I was having a hard time assigning custom colors to the final design in Flourish. Ideally, the French line would be blue in the second graph. As a next iteration, I would build these graphs in Tableau to get a bit more customization freedom with design. 
+
 ## Sources
 
 Statistics Canada. [Table 98-10-0200-01  Language spoken most often at home by other language(s) spoken regularly at home: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810020001)
