@@ -45,13 +45,38 @@ Support local fisherman. Buy local seafood and products.
 
 ## Data
 
-- Cod population
-- Newfoundland population
-- Newfoundland migration
-- Post-joining Canada: GDP to show economic impact
-- Increase in cod commericial industry
+This project will incorporate a number of complementary datasets to tell the story of Newfoundland's cod industry. 
+
+Datasets: 
+- Northern cod yearly catches, 1508-2019 <br><br>
+
+    This dataset displays yearly cod catches for the past five centuries. Catches are often used as an estimate for fish population as it is impossible to track the total number of fish in the ocean. The dataset was constructed from two separate sources, NAFO annual reports and DFO stock status updates, for the Journal of Marine Science and was published in 2021. The dataset is publicly accessible in the supplementary data of the article. <br><br>
+
+    Rebecca Schijns, Rainer Froese, Jeffrey A Hutchings, Daniel Pauly, Five centuries of cod catches in Eastern Canada, ICES Journal of Marine Science, Volume 78, Issue 8, November 2021, Pages 2675–2683, https://doi.org/10.1093/icesjms/fsab153 <br><br>
+
+- Newfoundland population, 1971 to 2021 <br><br>
+
+  This dataset displays Newfoundland's yearly population between 1971 and 2021 from Statistics Canada. The data will be used to compare similar trends between fluctuation in yearly cod catches and the Newfoundland population. <br><br>
+
+  Statistics Canada. Table 17-10-0005-01  Population estimates on July 1st, by age and sex, https://doi.org/10.25318/1710000501-eng <br><br>
+
+- Newfoundland migration <br><br>
+
+  Along with population data, viewing the yearly migrations of people out of Newfoundland will also help to tell the story of the negative impact the cod moratorium had on the province. This dataset displays the number of people that moved from Newfoundland to another Canadian province each year. I hope to present a map that visually represents the geographic relocation of Newfoundlanders due to the cod moratorium. <br><br>
+
+  Statistics Canada. Table 17-10-0022-01  Estimates of interprovincial migrants by province or territory of origin and destination, annual, https://doi.org/10.25318/1710002201-eng <br><br>
+
+- Post-joining Canada: Economic impact metrics <br><br>
+
+  Newfoundland was its own country until 1949 when it joined Canada. Finding data on Newfoundland before it was a part of Canada can be hard. One metric that Canada uses to track long-term economic performance is household income per capita. I will be using this data to analyze the economic impact of joining Canada and the cod moratorium on Newfoundland. <br><br>
+
+  Statistics Canada. Table 36-10-0229-01  Long-run provincial and territorial data
+  DOI: https://doi.org/10.25318/3610022901-eng <br><br>
+
+- Increase in cod commercial industry
+
 - Increase in IUU
-- Post-moratorium: Newfoundland GDP to show economic impact
+- 
 - Other industries/stories like this 
 
 ## Method and medium
