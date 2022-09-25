@@ -15,7 +15,7 @@ For my final project, I hope to warn and educate of the negative impacts technol
 - I can do this by buying from local/non-commercial companies. 
 
 ### Setup 
-_The fishery is a huge part of Newfoundland culture and economy._ 
+_Takeaway: The fishery is a huge part of Newfoundland culture and economy._ 
 
 - Early 1900s, Newfoundland was struggling as an independent country
   - Map: Point on Newfoundland, Canada. 
@@ -26,7 +26,7 @@ _The fishery is a huge part of Newfoundland culture and economy._
 - However, the thriving commercial cod fishery was too effective...
 
 ### Conflict
-_The decline of the cod fishery due to commercialization had a negative impact on lives of Newfoundlanders._
+_Takeaway: The decline of the cod fishery due to commercialization had a negative impact on lives of Newfoundlanders._
 
 - Poor regulations and IUU led to a drastic depletion in the cod industry.
   - Chart: Increase of IUU (illegal, unregulated) fishing in the late 1900s. 
@@ -40,7 +40,7 @@ _The decline of the cod fishery due to commercialization had a negative impact o
 - It's not just the cod fishery, this has happened in other industries and places like...
 
 ### Resolution
-_Buying from local companies and voting for politicians who support local industry will help solve this problem._
+_Takeaway: Buying from local companies and voting for politicians who support local industry will help solve this problem._
 
 - Similar stories have occurred:
   - Climate change and the irreversible damage done to the planet by human pollution 
