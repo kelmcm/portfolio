@@ -31,7 +31,7 @@ _Takeaway: The fishery is a huge part of Newfoundland culture and economy._
   <img src="photos/newfoundland_map.png">
 - In 1949, they decided to join Canada for economic security
 - Canada realized the economic opportunity Newfoundland had with its cod industry. They invested in expanding and commercializing the industry. 
-  - Chart: Line chart with number of cod commercial companies in Newfoundland increases dramatically after 1949. X = years. Y = number of cod commercial companies.
+  - Chart: Line chart with number of cod commercial companies in Newfoundland increases dramatically after 1949. X = years. Y = number of cod commercial companies. <br>
   <img src="photos/newfoundland_join_canada.png">
 - However, the thriving commercial cod fishery was too effective...
 
