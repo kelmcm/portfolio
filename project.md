@@ -45,7 +45,7 @@ _Takeaway: The decline of the cod fishery due to commercialization had a negativ
     - Source: https://oceana.org/marine-life/atlantic-cod/#:~:text=Scientists%20agree%20that%20North%20Atlantic,currently%20considered%20vulnerable%20to%20extinction.
 - The death of the cod fishery forced people to leave their homes and move away.
   - Map: Arrows connecting Newfoundland to other provinces indicating the number of people who moved away from Newfoundland in the 1990s.
-  - Title = Migration after the cod moratorium
+  - Title = Migration after the cod moratorium <br>
   <img src="photos/newfoundland_migrations_map.png"> <br>
   - Title = With no cod left, Newfoundlanders migrate away to find a new home 
   <img src="photos/newfoundland_cod_people_population.png">
