@@ -6,7 +6,7 @@ September 26, 2022
 
 For my final project, I hope to warn and educate of the negative impacts technology can have on our society through the story of the cod fishery in Newfoundland, Canada. The cod fishery was the center of Newfoundland economic and cultural society for hundreds of years. After joining Canada and the commercialization of the fishery in 1949, the waters of Newfoundland were overfished and depleted of cod. The cod population plummeted leading the government to call a moratorium on the cod fishery in 1992 resulting in economic decline, migration and relocation, and a loss of culture for the Newfoundland people. 
 
-## Outline & Sketches
+## Outline & sketches
 
 **High-level summary**: Technology and economic security are great until it takes all your fish and you are forced to leave your home. 
 
@@ -104,7 +104,7 @@ This project will incorporate a number of complementary datasets to tell the sto
 
 The main medium for the project will be Shorthand. I believe the flow of the story along with the complementary graphs will be best communicated in an online article format with Shorthand. Having a shareable link will also be nice to have to easily share the Shorthand website with anyone who may be interested. 
 
-## More sources: 
+## More sources 
 
 - Cod history: https://oceana.org/marine-life/atlantic-cod/#:~:text=Scientists%20agree%20that%20North%20Atlantic,currently%20considered%20vulnerable%20to%20extinction. 
 - Inter-provincial migration: https://doi.org/10.25318/1710002201-eng
