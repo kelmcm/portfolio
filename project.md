@@ -1,6 +1,7 @@
 # Final Project: Visualizing the Impact of the Cod Moratorium on Newfoundland
 
 Kelly McManus
+
 September 26, 2022
 
 For my final project, I hope to warn and educate of the negative impacts technology can have on our society through the story of the cod fishery in Newfoundland, Canada. The cod fishery was the center of Newfoundland economic and cultural society for hundreds of years. After joining Canada and the commercialization of the fishery in 1949, the waters of Newfoundland were overfished and depleted of cod. The cod population plummeted leading the government to call a moratorium on the cod fishery in 1992 resulting in economic decline, migration and relocation, and a loss of culture for the Newfoundland people. 
