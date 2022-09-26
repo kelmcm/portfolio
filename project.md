@@ -27,7 +27,7 @@ For my final project, I hope to warn and educate of the negative impacts technol
 _Takeaway: The fishery is a huge part of Newfoundland culture and economy._ 
 
 - Early 1900s, Newfoundland was struggling as an independent country
-  - Map: Point on Newfoundland, Canada.
+  - Map: Point on Newfoundland, Canada. <br>
   <img src="photos/newfoundland_map.png">
 - In 1949, they decided to join Canada for economic security
 - Canada realized the economic opportunity Newfoundland had with its cod industry. They invested in expanding and commercializing the industry. 
