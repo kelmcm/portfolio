@@ -65,7 +65,7 @@ _Takeaway: Buying from local companies and voting for politicians who support lo
 
 ## Data and sources
 
-This project will incorporate a number of complementary datasets to tell the story of Newfoundland's cod industry. 
+This project will incorporate a number of complementary datasets to tell the story of Newfoundland's cod industry. These five datasets are viewable on my [Github page data folder](https://github.com/kelmcm/portfolio/tree/main/data). 
 
 - Northern cod yearly catches, 1508-2019 <br><br>
 
