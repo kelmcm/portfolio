@@ -102,7 +102,7 @@ This project will incorporate a number of complementary datasets to tell the sto
 
 ## Method and medium
 
-The main medium for the project will be Shorthand. I believe the flow of the story along with the complementary graphs will be best communicated in an online article format with Shorthand. Having a shareable link 
+The main medium for the project will be Shorthand. I believe the flow of the story along with the complementary graphs will be best communicated in an online article format with Shorthand. Having a shareable link will also be nice to have to easily share the Shorthand website with anyone who may be interested. 
 
 ## More sources: 
 
