@@ -46,7 +46,7 @@ _Takeaway: The decline of the cod fishery due to commercialization had a negativ
 - The death of the cod fishery forced people to leave their homes and move away.
   - Map: Arrows connecting Newfoundland to other provinces indicating the number of people who moved away from Newfoundland in the 1990s.
   - Title = Migration after the cod moratorium
-  <img src="photos/newfoundland_migrations_map.png">
+  <img src="photos/newfoundland_migrations_map.png"> <br>
   - Title = With no cod left, Newfoundlanders migrate away to find a new home 
   <img src="photos/newfoundland_cod_people_population.png">
 - It's not just the cod fishery, this has happened in other industries and places like...
