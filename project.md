@@ -24,7 +24,7 @@ _Takeaway: The fishery is a huge part of Newfoundland culture and economy._
 
 - Early 1900s, Newfoundland was struggling as an independent country
   - Map: Point on Newfoundland, Canada.
-    <img src="photos/newfoundland_map.png">
+  <img src="photos/newfoundland_map.png">
 - In 1949, they decided to join Canada for economic security
 - Canada realized the economic opportunity Newfoundland had with its cod industry. They invested in expanding and commercializing the industry. 
   - Chart: Line chart with number of cod commercial companies in Newfoundland increases dramatically after 1949. X = years. Y = number of cod commercial companies.
@@ -36,10 +36,11 @@ _Takeaway: The decline of the cod fishery due to commercialization had a negativ
 
 - Poor regulations and IUU led to a drastic depletion in the cod industry.
   - Chart: Increase of IUU fishing citations in the late 1900s.
-  - Title = Fishing citations dramatically increase before and after the moratorium<img src="photos/newfoundland_citations.png">
+  - Title = Fishing citations dramatically increase before and after the moratorium
+  <img src="photos/newfoundland_citations.png">
 - The Canadian government shut down the commercial cod industry with a cod moratorium in 1992 as a last resort option to save the cod population.
   - Chart: Same cod-population chart, but vertical even indicator of the cod moratorium in 1992.
-    <img src="photos/newfoundland_cod_moratorium.png">
+  <img src="photos/newfoundland_cod_moratorium.png">
   - Cod is "vulnerable to extinction" 
     - Source: https://oceana.org/marine-life/atlantic-cod/#:~:text=Scientists%20agree%20that%20North%20Atlantic,currently%20considered%20vulnerable%20to%20extinction.
 - The death of the cod fishery forced people to leave their homes and move away.
@@ -47,7 +48,7 @@ _Takeaway: The decline of the cod fishery due to commercialization had a negativ
   - Title = Migration after the cod moratorium
   <img src="photos/newfoundland_migrations_map.png">
   - Title = With no cod left, Newfoundlanders migrate away to find a new home 
-    <img src="photos/newfoundland_cod_people_population.png">
+  <img src="photos/newfoundland_cod_people_population.png">
 - It's not just the cod fishery, this has happened in other industries and places like...
 
 ### Resolution
