@@ -1,8 +1,12 @@
 # Final Project: Visualizing the Impact of the Cod Moratorium on Newfoundland
 
+Kelly McManus
+
+September 26, 2022
+
 For my final project, I hope to warn and educate of the negative impacts technology can have on our society through the story of the cod fishery in Newfoundland, Canada. The cod fishery was the center of Newfoundland economic and cultural society for hundreds of years. After joining Canada and the commercialization of the fishery in 1949, the waters of Newfoundland were overfished and depleted of cod. The cod population plummeted leading the government to call a moratorium on the cod fishery in 1992 resulting in economic decline, migration and relocation, and a loss of culture for the Newfoundland people. 
 
-## Outline & Sketches
+## Outline & sketches
 
 **High-level summary**: Technology and economic security are great until it takes all your fish and you are forced to leave your home. 
 
@@ -23,14 +27,14 @@ For my final project, I hope to warn and educate of the negative impacts technol
 _Main Takeaway: The fishery is a huge part of Newfoundland culture and economy._ 
 
 - Early 1900s, Newfoundland was struggling as an independent country
-  - Map: Point on Newfoundland, Canada.
+  - Map: Point on Newfoundland, Canada. <br>
   <img src="photos/newfoundland_map.png">
 - Fishing a major part of Newfoundland economy and culture
   - Chart: Percent of labour force that is in the fishery
     <img src="photos/newfoundland_percent_of_labour_force.png">
 - In 1949, they decided to join Canada for economic security
 - Canada realized the economic opportunity Newfoundland had with its cod industry. They invested in expanding and commercializing the industry. 
-  - Chart: Line chart with number of cod commercial companies in Newfoundland increases dramatically after 1949. X = years. Y = number of cod commercial companies.
+  - Chart: Line chart with number of cod commercial companies in Newfoundland increases dramatically after 1949. X = years. Y = number of cod commercial companies. <br>
   <img src="photos/newfoundland_join_canada.png">
 - However, the thriving commercial cod fishery was too effective...
 
@@ -68,7 +72,7 @@ _Takeaway: Buying from local companies and voting for politicians who support lo
 
 ## Data and sources
 
-This project will incorporate a number of complementary datasets to tell the story of Newfoundland's cod industry. 
+This project will incorporate a number of complementary datasets to tell the story of Newfoundland's cod industry. These five datasets are viewable on my [Github page data folder](https://github.com/kelmcm/portfolio/tree/main/data). 
 
 - **Northern cod yearly catches, 1508-2019** <br><br>
 
@@ -114,8 +118,7 @@ This project will incorporate a number of complementary datasets to tell the sto
   The cod moratorium has an impact on the fishing industry which was a central part of Newfoundland culture. I'm hoping to bring in some data to support that Newfoundland's culture was affected by the cod moratorium 
 
 ## Method and medium
-
-The main medium for the project will be Shorthand. I believe the flow of the story along with the complementary graphs will be best communicated in an online article format with Shorthand. Having a shareable link will be helpful for spreading the story online and to potential future employers. 
+The main medium for the project will be Shorthand. I believe the flow of the story along with the complementary graphs will be best communicated in an online article format with Shorthand. Having a shareable link will also be nice to have to easily share the Shorthand website with anyone who may be interested. 
 
 ## Further articles and sources for research
 
