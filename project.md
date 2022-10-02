@@ -1,4 +1,5 @@
 # Final Project: Visualizing the Impact of the Cod Moratorium on Newfoundland
+## Part 1: Outline and Sketches
 
 Kelly McManus
 
