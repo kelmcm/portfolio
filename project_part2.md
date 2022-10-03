@@ -7,7 +7,7 @@ October 4, 2022
 
 # Wireframe
 
-Link to shorthand: xx
+<script src="https://carnegiemellon.shorthandstories.com/newfoundland-cod-moratorium-draft/embed.js"></script>
 
 # User research
 
