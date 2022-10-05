@@ -135,4 +135,4 @@ The interviews highlighted some key changes that I need to make to create a more
 
 ### Feedback from in-class critique
 - _Add more variation in the style of content_: I chose to purposely simplify the wireframe to focus on the stories and visualizations
-- _Easter transitions between content_: My team discussed a lot about how we are integrating the data and visualizations to our story. In the final 
+- _Easter transitions between content_: My team discussed a lot about how we are integrating the data and visualizations to our story. In the final design, I hope to add more details in the text to guide the reader through the story and visualizations. 
