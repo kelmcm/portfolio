@@ -11,7 +11,7 @@ The wireframe was built directly on Shorthand and is accessible at this link: ht
 
 I decided to keep a very simple wireframe with not a lot of variation in the format of text and images. This was intentional to get feedback on the story and the visualizations from my interviewees. After making improvements to the story and visualizations, I may add in more dynamic content in the final iteration. 
 
-Shorthand link: https://carnegiemellon.shorthandstories.com/newfoundland-cod-moratorium-draft/embed.js
+Shorthand link: [https://carnegiemellon.shorthandstories.com/newfoundland-cod-moratorium-draft](https://carnegiemellon.shorthandstories.com/newfoundland-cod-moratorium-draft)
 
 # User research
 
