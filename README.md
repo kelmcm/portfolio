@@ -34,3 +34,4 @@ After graduating, I will start working as a data engineer on an experimentation 
 - Project:Visualizing the Impact of the Cod Moratorium on Newfoundland
   - [Part 1](https://kelmcm.github.io/portfolio/project.html)
   - [Part 2](https://kelmcm.github.io/portfolio/project_part2.html) 
+  - [Part 3](https://kelmcm.github.io/portfolio/project_part3.html) 
