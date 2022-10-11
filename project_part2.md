@@ -5,6 +5,10 @@ Kelly McManus
 
 October 4, 2022
 
+_This is Part 2 of a three part project, check out the other parts here:_
+- _[Part 1](project.md)_
+- _[Part 3](project_part3.md)_
+
 # Wireframe
 
 The wireframe was built directly on Shorthand and is accessible at this link: https://carnegiemellon.shorthandstories.com/newfoundland-cod-moratorium-draft/embed.js
@@ -129,7 +133,7 @@ The interviews highlighted some key changes that I need to make to create a more
 - _Fix the first chart after the map:_ The current chart does not communicate how important the fishery was in Newfoundlanders lives and economy in the 1800s and 1900s. The downwards sloping line begs questions as to why the fishery is in decline before the cod moratorium is introduced. 
 - _Add a one-sentence summary at the top_ : Readers will be able to see if they are interested in the topic before committing to reading the full article. 
 - _Better chart type for migrants network chart_: I would like to make this visualization a bit clearer. I will create a static version of this visualization on Figma to clearer show the movement of migrants away from Newfoundland to other provinces. 
-- _Add a chart on average income over time:_ Some of my interviewees had questions about seeing data on the economic impact. I w
+- _Add a chart on average income over time:_ Some of my interviewees had questions about seeing data on the economic impact. I hope to add in this data in the final iteration.
 - _Add labels to the cod population/Newfoundland population double axis chart_: My interviewers were not able to differentiate between the two lines. I will add labels to make this clearer. 
 - _Add US to the map_: This will be to give readers who are not familiar with Canada more context on where Newfoundland is in the world.
 

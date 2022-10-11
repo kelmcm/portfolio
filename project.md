@@ -5,6 +5,10 @@ Kelly McManus
 
 September 26, 2022
 
+_This is Part 1 of a three part project, check out the other parts here:_
+- _[Part 2](project_part2.md)_
+- _[Part 3](project_part3.md)_
+
 For my final project, I hope to warn and educate of the negative impacts technology can have on our society through the story of the cod fishery in Newfoundland, Canada. The cod fishery was the center of Newfoundland economic and cultural society for hundreds of years. After joining Canada and the commercialization of the fishery in 1949, the waters of Newfoundland were overfished and depleted of cod. The cod population plummeted leading the government to call a moratorium on the cod fishery in 1992 resulting in economic decline, migration and relocation, and a loss of culture for the Newfoundland people. 
 
 ## Outline & sketches
