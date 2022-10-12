@@ -15,7 +15,7 @@ _This is Part 3 of a three part project, check out the other parts here:_
 
 In this project, I hoped to tell the story of the Newfoundland cod moratorium and the impact it has had on the people of Newfoundland and their culture. The hope was to warn others of the dangers of technology aiding in commercializing an industry too quickly as it did for the cod fishery. Technology can be a great tool, but it can also be a downfall. This was an iteratively developed project in three parts. 
 
-Prior to coming to the final artifact, I completed Parts 1 and 2. In Part 1, I developed and outlined of the story, sketched out the key visualizations I intended to weave into story, and I began gathering data sources. In Part 2, I developed a wireframe of my story on Shorthand, built the visualizations with Flourish, and conducted interviews to gather feedback on my draft story.
+Prior to coming to the final artifact, I completed Parts 1 and 2. In [Part 1](project.md), I developed and outlined of the story, sketched out the key visualizations I intended to weave into story, and I began gathering data sources. In [Part 2](project_part2.md), I developed a wireframe of my story on Shorthand, built the visualizations with Flourish, and conducted interviews to gather feedback on my draft story.
 
 In this final iteration of my project, I gathered the feedback from my research interviews and implemented changes into my draft project to develop my final version. You can view the final version of the project on [Shorthand](https://carnegiemellon.shorthandstories.com/newfoundland-cod-moratorium/index.html). 
 
