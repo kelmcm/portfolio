@@ -6,7 +6,7 @@ Carnegie Mellon University
 Fall 2022
 
 ## Course
-I took Telling Stories with Data (94-870) in Fall 2022 with Prof. Christopher Goranson. This course was the information of the portfolio. We learned about Github pages and how to set up a portfolio. The crux of the class was about data visualization and how they can be used to communicate information. 
+I took Telling Stories with Data (94-870) in Fall 2022 with Prof. Christopher Goranson. This course was the inspiration of this portfolio. We learned about Github pages and how to set up a portfolio. The crux of the class was about data visualization and how they can be used to communicate information. 
 
 ## What I hope to learn
 I'm taking the Telling Stories With Data course to gain more experience building data visualizations that are easy to read and highly insightful.
